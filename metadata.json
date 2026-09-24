@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy",
+  "description": "AI-powered personalized fitness plan generator, workout tracker, adaptive routines, and fitness coach using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
